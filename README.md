@@ -11,7 +11,7 @@
 
 📫 How to reach me:
 - Email: abduljawed6663@gmail.com
-- LinkedIn: [Your LinkedIn Profile Link]
+- LinkedIn: [https://www.linkedin.com/in/jawed-ahmed-0575b32b6]
 
 ⚡ Fun Fact: When I'm not configuring Docker containers or coding APIs, I’m exploring the dark web's structure from a secure virtual sandbox!
 
