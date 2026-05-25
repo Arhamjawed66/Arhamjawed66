@@ -1,8 +1,17 @@
-👋 Hi, I’m abdulJawed
-👀 I’m passionate about Artificial Intelligence (AI) and its applications in web development
-🌱 I’m currently diving deep into Web 3.0 and decentralized technologies
-💞️ I’m looking to collaborate on AI-driven front-end projects and innovative Web 3.0 applications
-📫 You can reach me at: abduljawed6663@gmail.com
-😄 Pronouns: He
-⚡ Fun fact: When I'm not coding, I'm exploring the fascinating world of blockchain technology
+👋 Hi, I’m Abdul Jawed (@Arhamjawed66)
+
+🚀 I am a Full-Stack MERN Developer who is currently transitioning and diving deep into the world of DevOps & DevSecOps. I love bridging the gap between clean application code and robust cloud infrastructure.
+
+🌱 Currently Learning:
+- DevOps Tools & Practices (Linux, Docker, AWS, CI/CD)
+- Cloud Security & Secure Automation
+
+💞️ Looking to Collaborate on:
+- DevOps/DevSecOps pipelines, automated deployments, and Full-Stack MERN projects.
+
+📫 How to reach me:
+- Email: abduljawed6663@gmail.com
+- LinkedIn: [Your LinkedIn Profile Link]
+
+⚡ Fun Fact: When I'm not configuring Docker containers or coding APIs, I’m exploring the dark web's structure from a secure virtual sandbox!
 
